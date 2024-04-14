@@ -23,6 +23,6 @@ permalink: /cv/
 - The Physical Society of Japan (JPS)
 
 ### Organaizing Experience
-- Space Education Program of Tokyo University of Science
-- KEK Summer Challenge alumni reunion
-- 若手
+- Space Education Program of Tokyo University of Science (2020~2021)
+- KEK Summer Challenge alumni reunion (2023~2024)
+- 第54回天文・天体物理若手夏の学校（観測機器分科会座長団）(2024)
