@@ -1,4 +1,4 @@
-title: Ryosuke Akizawa official page
+title: Ryosuke Akizawa official webpage
 author:
   name: https://github.com/Ryoaki374
   email: ryosuke.akizawa@ipmu.jp
@@ -44,10 +44,10 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized-light
 
   # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
 
