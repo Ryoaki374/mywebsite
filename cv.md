@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 ### Educational background
+
 |      |                                                         |     |
 | ---- | ------------------------------------------------------- | --- |
 | 2023 | Master course of dept. of Physics at the Univ. of Tokyo |     |
@@ -13,7 +14,7 @@ permalink: /cv/
 - **Natural** : English, Japanese, Italian (New!)
 - **Programing** : C++, Python, Root, R, JavaScript
 - **Site generator** : Hugo
-- **Markup** : HTML/CSS, LaTeX, Markdown
+- **Markup** : HTML, CSS, LaTeX, Markdown
 - **Misc** : Bash
 
 ### Software

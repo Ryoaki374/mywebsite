@@ -9,13 +9,14 @@ layout: base
 
   {{ content }}
 
+  <!-- ここに常に表示する紹介文を記述します -->
+  <p>Welcome to our website! This is where you'll find all the latest updates and information about our services/products.</p>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
@@ -55,7 +56,5 @@ layout: base
         </ul>
       </div>
     {%- endif %}
-
   {%- endif -%}
-
 </div>
