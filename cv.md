@@ -10,6 +10,13 @@ permalink: /cv/
 | ---- | ------------------------------------------------------- | --- |
 | 2023 | Master course of dept. of Physics at the Univ. of Tokyo |     |
 
+Title 1               | Title 2               | Title 3               | Title 4
+--------------------- | --------------------- | --------------------- | ---------------------
+lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+
 ### Languages
 - **Natural** : English, Japanese, Italian (New!)
 - **Programing** : C++, Python, Root, R, JavaScript
