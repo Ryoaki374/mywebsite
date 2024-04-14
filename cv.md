@@ -10,7 +10,8 @@ permalink: /cv/
 # Languages
 - Natural : English, Japanese, Italian (New!)
 - Programing : C++, Python, Root, R, JavaScript
-- Site : Hugo
+- Site generator : Hugo
+- Markup : HTML/CSS, LaTeX, Markdown
 
 # Software
 - Fusion360 (3DCAD), Blender(3DCG), Diffract MOD (Electromagnetic Field Analysis)
