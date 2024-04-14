@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Educational background
+| 2023 | Dept. of Physics at the Univ. of Tokyo |
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Languages
+- Natural : English, Japanese, Italian (New!)
+- Programing : C++, Python, Root, R, JavaScript
+- Site : Hugo
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Software
+- Fusion360 (3DCAD), Blender(3DCG), Diffract MOD (Electromagnetic Field Analysis)
 
+# Academic membership
+- The Physical Society of Japan (JPS)
 
-[jekyll-organization]: https://github.com/jekyll
+# Organaizing Experience
+- Space Education Program of Tokyo University of Science
+- KEK Summer Challenge alumni reunion
+- 若手
