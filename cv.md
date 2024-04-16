@@ -13,9 +13,10 @@ permalink: /cv/
 ### Languages
 - **Natural** : English, Japanese, Italian (New!)
 - **Programing** : C++, Python, Root, R, JavaScript
-- **Site generator** : Hugo
+- **static site generator** : Hugo
 - **Markup** : HTML, CSS, LaTeX, Markdown
-- **Misc** : Bash
+- **Data base** : SQL
+- **Misc** : Bash,GAS
 
 ### Software
 - Fusion360 (3DCAD), Blender(3DCG), Diffract MOD (Electromagnetic Field Analysis)
