@@ -16,7 +16,7 @@ permalink: /cv/
 - **static site generator** : Hugo
 - **Markup** : HTML, CSS, LaTeX, Markdown
 - **Data base** : SQL
-- **Misc** : Bash,GAS
+- **Misc** : Bash, GAS
 
 ### Software
 - Fusion360 (3DCAD), Blender(3DCG), Diffract MOD (Electromagnetic Field Analysis)
