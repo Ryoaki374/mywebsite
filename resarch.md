@@ -10,6 +10,10 @@ permalink: /resarch/
 
 - 2024
     1. "LiteBIRD低周波望遠鏡の偏光変調器のためのリニアアクチュエータ式保持機構の低温性能評価", __秋澤涼介__, 飯田光人, 相澤耕佑, Tommaso Ghigna, Thuong Duc Hoang, 片山伸彦, 松村知岳, 中嶋秀樹, 大崎博之, 櫻井雄基, 寺尾悠, 高久諒太, [日本物理学会2024年春季大会(19pW3-12)](https://onsite.gakkai-web.net/jps/jps_search/2024sp/data2/html/programu.html#j19pW3), Mar 2024, (Online)
+
+    1. "hermal characteristics of the stepping motor with high-purity copper wire for cryogenic holder mechanism", __Ryosuke Akizawa__, Kosuke Aizawa, Teruhito Iida, Tommaso Ghigna,
+Thuong D. Hoang, Nobuhiko Katayama, Tomotake Matsumura, Hideki Nakajima,Hiroyuki Ohsaki, Yuki Sakurai, Ryota Takaku, Yutaka Terao, [JSPS研究拠点形成事業・第14回国内交流若手セミナー](hhttps://cmb.phys.s.u-tokyo.ac.jp/c2c/2024/03/08/jsps%e7%a0%94%e7%a9%b6%e6%8b%a0%e7%82%b9%e5%bd%a2%e6%88%90%e4%ba%8b%e6%a5%ad%e3%83%bb%e7%ac%ac14%e5%9b%9e%e5%9b%bd%e5%86%85%e4%ba%a4%e6%b5%81%e8%8b%a5%e6%89%8b%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/), Mar 2024, (つくば国際会議場, Tsukuba)
+
 - 2023
     1. "Status report of LFT PMU", Ryota Takaku, Kosuke Aizawa, __Ryosuke Akizawa__, and dozens of others, LiteBIRD F2F meeting poster presentation June 2023, (The Univ. of Tokyo, Tokyo)
 
