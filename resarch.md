@@ -9,6 +9,8 @@ permalink: /resarch/
 ### Presentation
 
 - 2024
+    1. "Development Status of Cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, Teruhito Iida, Ryota Takaku, Kosuke Aizawa, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Asuka Maeda, Tomotake Matsumura, Hideki Nakajima, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Yutaka Terao and LiteBIRD collaboration., [SPIE Astronomical Telescopes + Instrumentation 2024](https://spie.org/astronomical-telescopes-instrumentation/presentation/Development-status-of-the-cryogenic-holder-mechanism-for-LiteBIRD-LFT/13102-130), June 2024, (Pacifico Yokohama)
+
     1. "LiteBIRD低周波望遠鏡の偏光変調器のためのリニアアクチュエータ式保持機構の低温性能評価", __秋澤涼介__, 飯田光人, 相澤耕佑, Tommaso Ghigna, Thuong Duc Hoang, 片山伸彦, 松村知岳, 中嶋秀樹, 大崎博之, 櫻井雄基, 寺尾悠, 高久諒太, [日本物理学会2024年春季大会(19pW3-12)](https://onsite.gakkai-web.net/jps/jps_search/2024sp/data2/html/programu.html#j19pW3), Mar 2024, (Online)
 
     1. "Thermal characteristics of the stepping motor with high-purity copper wire for cryogenic holder mechanism", __Ryosuke Akizawa__, Kosuke Aizawa, Teruhito Iida, Tommaso Ghigna,

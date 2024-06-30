@@ -11,11 +11,11 @@ layout: base
 
   <!-- ここに常に表示する紹介文を記述します -->
   <p>Welcome to my website! </p>
-  <figure>
+  <figure style="text-align:center;display:table;width:1px;" ></figure>
     <img src="https://github.com/Ryoaki374/mywebsite/blob/main/figure/1000005617.jpg?raw=true" alt="my picture" width="30%" />
     <figcaption>Communicating with Golila</figcaption>
   </figure>
-  
+
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
