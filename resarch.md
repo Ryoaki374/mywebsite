@@ -8,7 +8,6 @@ permalink: /resarch/
 ### Papers (non-refereed)
 ### Presentation
 
-{::options parse_block_html="true" /}
 <details open>
 <summary>2024</summary>
 
