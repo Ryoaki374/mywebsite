@@ -20,7 +20,7 @@ permalink: /resarch/
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>2023</summary>
 
 1. "Development status of the cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, [QUPosium2023](https://conference-indico.kek.jp/event/245/page/388-poster-presentation), Dec 2023, (Tsukuba International Congress Center, Tsukuba)
@@ -32,8 +32,8 @@ permalink: /resarch/
 1. "Status report of LFT PMU", Ryota Takaku, Kosuke Aizawa, __Ryosuke Akizawa__, and dozens of others, LiteBIRD F2F meeting poster presentation June 2023, (The Univ. of Tokyo, Tokyo)
 </details>
 
-<details>
-<summary>2022</summary>
+<details markdown="1">
+<summary markdown="1">2022</summary>
 
 1. [「連星ブラックホール合体による準固有振動（QNM）の高次モード探索」](https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/2022Graviational-Wave-Asrtronomy.pdf), __秋澤涼介__, 井ノ上慎一, 田中康太郎, 加藤辰明, 田耕健也, 前田佳凜, ICRR Spring School 2022 Gravitational Wave Astronomy, Mar 2022, (Online)
 </details>
