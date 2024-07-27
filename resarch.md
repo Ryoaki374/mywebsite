@@ -35,7 +35,6 @@ permalink: /resarch/
 <summary>2022</summary>
 
     1. [「連星ブラックホール合体による準固有振動（QNM）の高次モード探索」](https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/2022Graviational-Wave-Asrtronomy.pdf), __秋澤涼介__, 井ノ上慎一, 田中康太郎, 加藤辰明, 田耕健也, 前田佳凜, ICRR Spring School 2022 Gravitational Wave Astronomy, Mar 2022, (Online)
-
 </details>
 
 <details>
@@ -44,7 +43,6 @@ permalink: /resarch/
     1. 「静電捕集型ラドン検出器の開発と湿度依存性の研究」, __秋澤涼介__, 黒川俊輔, 佐々木良輔, 印田朱音, 第15回KEKサマーチャレンジ, Aug 2021 - Mar 2022, (KEK, Tsukuba)
 
     - test
-
 </details>
 
 
@@ -53,20 +51,3 @@ permalink: /resarch/
     1. [第53回天文・天体物理若手夏の学校（観測機器分科会）オーラルアワード第3位](https://astro-wakate.sakura.ne.jp/ss2023/award/index.html)
 
 ### Misc
-
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
