@@ -6,7 +6,7 @@ permalink: /cv/
 
 ### Educational background
 
-|      |                                                         |
+| year |                                                         |
 | ---- | ------------------------------------------------------- |
 | 2023 | Master course of dept. of Physics at the Univ. of Tokyo |
 
