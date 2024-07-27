@@ -53,3 +53,20 @@ permalink: /resarch/
     1. [第53回天文・天体物理若手夏の学校（観測機器分科会）オーラルアワード第3位](https://astro-wakate.sakura.ne.jp/ss2023/award/index.html)
 
 ### Misc
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
