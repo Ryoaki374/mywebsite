@@ -8,10 +8,9 @@ permalink: /resarch/
 ### Papers (non-refereed)
 ### Presentation
 
+{::options parse_block_html="true" /}
 <details open>
 <summary>2024</summary>
-
-{::options parse_block_html="true" /}
 
 1. "Development Status of Cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, Teruhito Iida, Ryota Takaku, Kosuke Aizawa, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Asuka Maeda, Tomotake Matsumura, Hideki Nakajima, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Yutaka Terao and LiteBIRD collaboration., [SPIE Astronomical Telescopes + Instrumentation 2024](https://spie.org/astronomical-telescopes-instrumentation/presentation/Development-status-of-the-cryogenic-holder-mechanism-for-LiteBIRD-LFT/13102-130), June 2024, (Pacifico Yokohama, Yokohama, Japan)
 
