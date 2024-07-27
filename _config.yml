@@ -12,7 +12,7 @@ description: >
 
 # Build settings
 
-# If you clone the Minima repo and build locally, use this setting.
+# If you clone the Minima repo and build locally,markdown: CommonMarkGhPages use this setting.
 theme: minima
 markdown: CommonMarkGhPages
 

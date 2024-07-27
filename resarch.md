@@ -8,13 +8,15 @@ permalink: /resarch/
 ### Papers (non-refereed)
 ### Presentation
 
-- 2024
-    1. "Development Status of Cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, Teruhito Iida, Ryota Takaku, Kosuke Aizawa, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Asuka Maeda, Tomotake Matsumura, Hideki Nakajima, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Yutaka Terao and LiteBIRD collaboration., [SPIE Astronomical Telescopes + Instrumentation 2024](https://spie.org/astronomical-telescopes-instrumentation/presentation/Development-status-of-the-cryogenic-holder-mechanism-for-LiteBIRD-LFT/13102-130), June 2024, (Pacifico Yokohama, Yokohama, Japan)
+<details open>
+<summary>2024</summary>
 
-    1. "LiteBIRD低周波望遠鏡の偏光変調器のためのリニアアクチュエータ式保持機構の低温性能評価", __秋澤涼介__, 飯田光人, 相澤耕佑, Tommaso Ghigna, Thuong Duc Hoang, 片山伸彦, 松村知岳, 中嶋秀樹, 大崎博之, 櫻井雄基, 寺尾悠, 高久諒太, [日本物理学会2024年春季大会(19pW3-12)](https://onsite.gakkai-web.net/jps/jps_search/2024sp/data2/html/programu.html#j19pW3), Mar 2024, (Online)
+1. "Development Status of Cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, Teruhito Iida, Ryota Takaku, Kosuke Aizawa, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Asuka Maeda, Tomotake Matsumura, Hideki Nakajima, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Yutaka Terao and LiteBIRD collaboration., [SPIE Astronomical Telescopes + Instrumentation 2024](https://spie.org/astronomical-telescopes-instrumentation/presentation/Development-status-of-the-cryogenic-holder-mechanism-for-LiteBIRD-LFT/13102-130), June 2024, (Pacifico Yokohama, Yokohama, Japan)
 
-    1. "Thermal characteristics of the stepping motor with high-purity copper wire for cryogenic holder mechanism", __Ryosuke Akizawa__, Kosuke Aizawa, Teruhito Iida, Tommaso Ghigna,
-Thuong D. Hoang, Nobuhiko Katayama, Tomotake Matsumura, Hideki Nakajima,Hiroyuki Ohsaki, Yuki Sakurai, Ryota Takaku, Yutaka Terao, [JSPS研究拠点形成事業・第14回国内交流若手セミナー](hhttps://cmb.phys.s.u-tokyo.ac.jp/c2c/2024/03/08/jsps%e7%a0%94%e7%a9%b6%e6%8b%a0%e7%82%b9%e5%bd%a2%e6%88%90%e4%ba%8b%e6%a5%ad%e3%83%bb%e7%ac%ac14%e5%9b%9e%e5%9b%bd%e5%86%85%e4%ba%a4%e6%b5%81%e8%8b%a5%e6%89%8b%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/), Mar 2024, (つくば国際会議場, Tsukuba)
+1. "LiteBIRD低周波望遠鏡の偏光変調器のためのリニアアクチュエータ式保持機構の低温性能評価", __秋澤涼介__, 飯田光人, 相澤耕佑, Tommaso Ghigna, Thuong Duc Hoang, 片山伸彦, 松村知岳, 中嶋秀樹, 大崎博之, 櫻井雄基, 寺尾悠, 高久諒太, [日本物理学会2024年春季大会(19pW3-12)](https://onsite.gakkai-web.net/jps/jps_search/2024sp/data2/html/programu.html#j19pW3), Mar 2024, (Online)
+
+1. "Thermal characteristics of the stepping motor with high-purity copper wire for cryogenic holder mechanism", __Ryosuke Akizawa__, Kosuke Aizawa, Teruhito Iida, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Tomotake Matsumura, Hideki Nakajima,Hiroyuki Ohsaki, Yuki Sakurai, Ryota Takaku, Yutaka Terao, [JSPS研究拠点形成事業・第14回国内交流若手セミナー](hhttps://cmb.phys.s.u-tokyo.ac.jp/c2c/2024/03/08/jsps%e7%a0%94%e7%a9%b6%e6%8b%a0%e7%82%b9%e5%bd%a2%e6%88%90%e4%ba%8b%e6%a5%ad%e3%83%bb%e7%ac%ac14%e5%9b%9e%e5%9b%bd%e5%86%85%e4%ba%a4%e6%b5%81%e8%8b%a5%e6%89%8b%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/), Mar 2024, (つくば国際会議場, Tsukuba)
+</details>
 
 
 <details>
@@ -32,7 +34,7 @@ Thuong D. Hoang, Nobuhiko Katayama, Tomotake Matsumura, Hideki Nakajima,Hiroyuki
 <details>
 <summary>2022</summary>
 
-1. [「連星ブラックホール合体による準固有振動（QNM）の高次モード探索」](https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/2022Graviational-Wave-Asrtronomy.pdf), __秋澤涼介__, 井ノ上慎一, 田中康太郎, 加藤辰明, 田耕健也, 前田佳凜, ICRR Spring School 2022 Gravitational Wave Astronomy, Mar 2022, (Online)
+    1. [「連星ブラックホール合体による準固有振動（QNM）の高次モード探索」](https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/2022Graviational-Wave-Asrtronomy.pdf), __秋澤涼介__, 井ノ上慎一, 田中康太郎, 加藤辰明, 田耕健也, 前田佳凜, ICRR Spring School 2022 Gravitational Wave Astronomy, Mar 2022, (Online)
 
 </details>
 
