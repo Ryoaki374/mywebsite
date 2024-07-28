@@ -8,7 +8,7 @@ permalink: /resarch/
 ### Papers (non-refereed)
 ### Presentation
 
-<details open>
+<details open markdown="1">
 <summary>2024</summary>
 
 1. "Development Status of Cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, Teruhito Iida, Ryota Takaku, Kosuke Aizawa, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Asuka Maeda, Tomotake Matsumura, Hideki Nakajima, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Yutaka Terao and LiteBIRD collaboration., [SPIE Astronomical Telescopes + Instrumentation 2024](https://spie.org/astronomical-telescopes-instrumentation/presentation/Development-status-of-the-cryogenic-holder-mechanism-for-LiteBIRD-LFT/13102-130), June 2024, (Pacifico Yokohama, Yokohama, Japan)
@@ -32,12 +32,12 @@ permalink: /resarch/
 </details>
 
 <details markdown="1">
-<summary markdown="1">2022</summary>
+<summary>2022</summary>
 
 1. [「連星ブラックホール合体による準固有振動（QNM）の高次モード探索」](https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/2022Graviational-Wave-Asrtronomy.pdf), __秋澤涼介__, 井ノ上慎一, 田中康太郎, 加藤辰明, 田耕健也, 前田佳凜, ICRR Spring School 2022 Gravitational Wave Astronomy, Mar 2022, (Online)
 </details>
 
-<details>
+<details markdown="1">
 <summary>2021</summary>
 
 1. 「静電捕集型ラドン検出器の開発と湿度依存性の研究」, __秋澤涼介__, 黒川俊輔, 佐々木良輔, 印田朱音, 第15回KEKサマーチャレンジ, Aug 2021 - Mar 2022, (KEK, Tsukuba)
