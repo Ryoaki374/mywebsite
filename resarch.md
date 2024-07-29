@@ -4,7 +4,7 @@ title: Resarch
 permalink: /resarch/
 ---
 
-### Papers (reviewd)
+### Papers (reviewed)
 ### Papers (non-refereed)
 ### Presentation
 
