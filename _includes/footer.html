@@ -1,5 +1,5 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
 
   <div class="wrapper">
 
@@ -12,16 +12,16 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
-      {%- if site.author %}
+        {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+          <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
         </ul>
-      {%- endif %}
+        {%- endif %}
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
@@ -37,13 +37,17 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
   <script type="text/javascript">
-      $(document).ready(function(){
-          $('.your-class').slick({
-              autoplay: true,
-              autoplaySpeed: 2000,
-              dots: true,
-          });
+    $(document).ready(function () {
+      $('.your-class').slick({
+        autoplay: true,
+        autoplaySpeed: 2000,
+        dots: true,
+        infinite: true, /* 無限ループを有効にする */
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true
       });
+    });
   </script>
 
 </footer>
