@@ -11,6 +11,9 @@ permalink: /resarch/
 <details open markdown="1">
 <summary>2024</summary>
 
+1. "Experimental characterization of energy loss in rotation mechanism using SMB for LiteBIRD LFT PMU operating below 10 K", Ryosuke Akizawa, Kosuke Aizawa, Thuong Duc Hoang, Teruhito Iida,Mitsuharu Kusama, Clément Leloup, Asuka Maeda, Tomotake Matsumura, Jun Nakagawa, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Ryota Takaku, Yutaka Terao, and Ryota Uematsu
+ [The Applied Superconductivity Conference 2024](https://www.appliedsuperconductivity.org/asc2024/), September 2024, (SLC, Utah, US)
+
 1. "Development Status of Cryogenic holder mechanism for LiteBIRD LFT PMU", __Ryosuke Akizawa__, Teruhito Iida, Ryota Takaku, Kosuke Aizawa, Tommaso Ghigna, Thuong D. Hoang, Nobuhiko Katayama, Asuka Maeda, Tomotake Matsumura, Hideki Nakajima, Hiroyuki Ohsaki, Satsuki Okumura, Yuki Sakurai, Yutaka Terao and LiteBIRD collaboration., [SPIE Astronomical Telescopes + Instrumentation 2024](https://spie.org/astronomical-telescopes-instrumentation/presentation/Development-status-of-the-cryogenic-holder-mechanism-for-LiteBIRD-LFT/13102-130), June 2024, (Pacifico Yokohama, Yokohama, Japan)
 
 1. "LiteBIRD低周波望遠鏡の偏光変調器のためのリニアアクチュエータ式保持機構の低温性能評価", __秋澤涼介__, 飯田光人, 相澤耕佑, Tommaso Ghigna, Thuong Duc Hoang, 片山伸彦, 松村知岳, 中嶋秀樹, 大崎博之, 櫻井雄基, 寺尾悠, 高久諒太, [日本物理学会2024年春季大会(19pW3-12)](https://onsite.gakkai-web.net/jps/jps_search/2024sp/data2/html/programu.html#j19pW3), Mar 2024, (Online)
