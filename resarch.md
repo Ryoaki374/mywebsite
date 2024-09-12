@@ -4,8 +4,10 @@ title: Resarch
 permalink: /resarch/
 ---
 
-### Papers (reviewed)
-### Papers (non-refereed)
+### Papers (Peer-reviewed)
+### Papers (Non peer-reviewed)
+1. Ryosuke Akizawa et al., "Development status of the cryogenic holder mechanism for LiteBIRD LFT PMU", Proc. SPIE 13102, Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy XII, 131021X (16 August 2024); https://doi.org/10.1117/12.3019552
+
 ### Presentation
 
 <details open markdown="1">
